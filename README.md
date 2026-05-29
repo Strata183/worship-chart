@@ -27,6 +27,17 @@ BRIDGE (BUILD on 1/16th) [Chord]
 (Climax lyric line)   Style Guide Implementation Details:Chords with Counts: When a chord spans a full measure, write the chord followed by the number of beats in parentheses, such as A (3).  Rhythmic Splits: If two chords share a measure, put them in parentheses separated by a pipe, like (Bm | 2) (E).  Dynamic Markers: Place specific band instructions in BOLD ALL CAPS directly above the section or measure where the change occurs (e.g., DRUMS IN - TOM BEAT).  Vocal/Instrumental Cues: Use ... after a chord or lyric to indicate a sustained note or a transition into the next segment.  Slash Chords: For specific bass movements often found in choruses, use the Chord/Bass format, such as A/C#
 
 
+Example Prompt:
+
+Make a guitar chart for this song, using the bold section/chords style from my Strata183/worship-chart repo.
+Key: [Your Key]
+BPM: [Your BPM if you want, optional]
+Title: [SONG TITLE]
+
+Lyrics:
+[Paste your verses/chorus/outro here]
+
+
 ## See example below
 
 
